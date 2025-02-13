@@ -1,0 +1,17 @@
+:root {
+  font-variant-ligatures: none;
+}
+
+.markdown-rendered code,
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
+  color: #bb4b4a;
+  font-weight: normal;
+  padding-inline: 4px;
+  font-size: .9063rem;
+  text-decoration-color: #bb4b4a;
+}
+
+
+.markdown-preview-view table {
+  width: calc(100% - 15px);
+}

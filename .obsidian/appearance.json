@@ -1,0 +1,13 @@
+{
+  "accentColor": "#ffa066",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "textFontFamily": "JetBrains Mono",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSize": 16,
+  "cssTheme": "Proper Dark",
+  "interfaceFontFamily": "JetBrains Mono"
+}

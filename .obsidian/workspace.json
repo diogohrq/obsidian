@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "5d3187e7e67f0ba3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1523425369b6352a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65df2d174d7f7741",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44ad11078af3e535",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f9e5d4dffccdd1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6195fd7247b95142",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0fbfc093855354c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f5c0d70d6059d7e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "58282f045ce964ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9ef6701b5566c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fc46239c825c2d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nand2tetris/Boolean Functions and Gate Logic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Boolean Functions and Gate Logic"
+            }
+          },
+          {
+            "id": "965f4fbfe432d59e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "nand2tetris/Boolean Functions and Gate Logic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Boolean Functions and Gate Logic"
+            }
+          },
+          {
+            "id": "584647665c1ac5cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2bc0a17d1201f09b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nand2tetris/Boolean Functions and Gate Logic.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Boolean Functions and Gate Logic"
+            }
+          },
+          {
+            "id": "8e77dbb5d6377150",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "65df2d174d7f7741",
+  "lastOpenFiles": [
+    "CS50/notes.md",
+    "JavaScript/Objects and Object Contructors.md",
+    "Untitled.md",
+    "JavaScript",
+    "English/English.md",
+    "Shortcuts.md",
+    "UI.md",
+    "nand2tetris/Boolean Functions and Gate Logic.md",
+    "CS50",
+    "nand2tetris/HDL.md",
+    "JavaScript/OOP.md",
+    "JavaScript/Classes.md",
+    "JavaScript/Objects and Object Constructors.md",
+    "neovim/VIM/Vim.md",
+    "neovim",
+    "HTML/Forms.md",
+    "JavaScript/Asynchronous Code.md",
+    "JavaScript/Modules (ES6).md",
+    "nand2tetris/Untitled.canvas",
+    "nand2tetris",
+    "JavaScript/Webpack.md",
+    "JavaScript/API.md",
+    "Auto Escola/Direção defensiva.md",
+    "CSS/Default Styles.md",
+    "Auto Escola",
+    "JavaScript/JSON.md",
+    "JavaScript/Form Validation.md",
+    "JavaScript/Form Validation4.md",
+    "CSS/Animations.md",
+    "JavaScript/Factory Functions and the Module Pattern.md",
+    "JavaScript/npm.md",
+    "neovim/VIM",
+    "HTML",
+    "English",
+    "CSS",
+    "JavaScript"
+  ]
+}
