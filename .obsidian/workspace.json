@@ -11,10 +11,14 @@
             "id": "65df2d174d7f7741",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operacionais/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.5
   },
   "right": {
     "id": "58282f045ce964ee",
@@ -175,9 +179,11 @@
   },
   "active": "65df2d174d7f7741",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Sistemas Operacionais/Untitled.md",
+    "Sistemas Operacionais",
     "CS50/notes.md",
     "JavaScript/Objects and Object Contructors.md",
-    "Untitled.md",
     "JavaScript",
     "English/English.md",
     "Shortcuts.md",
@@ -209,7 +215,6 @@
     "neovim/VIM",
     "HTML",
     "English",
-    "CSS",
-    "JavaScript"
+    "CSS"
   ]
 }
